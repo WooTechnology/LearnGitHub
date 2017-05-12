@@ -4,17 +4,17 @@ A repository that helps new users learn how to use basic github.
 # Guide
 * [Reference materials](#reference-materials)
 * [Tasks](#tasks-1)
-  ** [Creating Issues](#request-for-collaboration-permission)
-  ** [Cloning](#cloning)
-  ** [Pull-requests](#pull-requests)
-  ** [Branches](#branches)
-  ** [Merge Conflicts](#merge-conflicts)
+  * [Creating Issues](#request-for-collaboration-permission)
+  * [Cloning](#cloning)
+  * [Pull-requests](#pull-requests)
+  * [Branches](#branches)
+  * [Merge Conflicts](#merge-conflicts)
 
 # Reference materials
 * [Altassian tutorials](https://www.atlassian.com/git/tutorial)
-  ** If you're comfortable reading textual documentation, then follow the Atlassian tutorials for git
+  * If you're comfortable reading textual documentation, then follow the Atlassian tutorials for git
 * [Udacity course on GitHub](https://www.udacity.com/co…/how-to-use-git-and-github--ud775)
-  ** If you're more of a follow with video person, try this course on Udacity that explains the basics of github
+  * If you're more of a follow with video person, try this course on Udacity that explains the basics of github
 
 # Tasks
 
