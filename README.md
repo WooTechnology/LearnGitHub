@@ -29,12 +29,12 @@ The installation for git is fairly straighforward. You can follow instructions [
 - [ ] [Merge Conflicts](#merge-conflicts)
 
 ### Request for collaboration permission
-This task will teach you how to create an issue, and also add you to the collaborators of this repository.
+_This task will teach you how to create an issue, and also add you to the collaborators of this repository._
 
 1. Visit the 'Issues' tab under this repository. Create an issue requesting for collaboration permission. Wait for it to be granted
 
 ### Cloning
-This task will teach you how to clone a repository. You may chose to do it via the terminal or git-GUI.
+_This task will teach you how to clone a repository. You may chose to do it via the terminal or git-GUI._
 
 1. Clone this repository on your local.
 2. Create a new file. Save it in the current repository with your name or userId e.g. `wooTech.md`
@@ -42,7 +42,7 @@ This task will teach you how to clone a repository. You may chose to do it via t
 4. Do a git add, commit and push it to the remote repository on github. Make sure you do not mess with other users files.
 
 ### Pull-requests
-This task will teach you how to fork a repository and create a pull request. As you would have notices, anyone can damage existing files on the repository by makes a wrong push and commit. One way to handle the situation is to revert all changes - but git also provides you a better way for collaboration by seperating the new changes from the previously accepted changes.
+_This task will teach you how to fork a repository and create a pull request. As you would have notices, anyone can damage existing files on the repository by makes a wrong push and commit. One way to handle the situation is to revert all changes - but git also provides you a better way for collaboration by seperating the new changes from the previously accepted changes._
 
 1. Fork this repository. You will see an identical copy of this repository in your github page.
 2. Clone it to your local.
@@ -53,7 +53,7 @@ This task will teach you how to fork a repository and create a pull request. As 
 7. Create a pull-request, assign your WooTech mentor (if present) to review the request and that's it.
 
 ### Branches
-This task will teach you how to create a branch, work on it, push to it and create a pull request to merge the branch with the master.
+_This task will teach you how to create a branch, work on it, push to it and create a pull request to merge the branch with the master._
 
 1. Clone this repository
 2. Create a new branch with your `<name>-branch` e.g. 'wooTech-branch'
