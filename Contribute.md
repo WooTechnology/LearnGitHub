@@ -13,4 +13,6 @@ Mentors can contribute to this repository to create more complicated tasks for t
 ## Update an existing task
 1. Create an issue regarding the problem with the task description
 2. Make the changes.
-3. Submit a pull reuqest.
+3. Submit a pull request.
+
+_Thank you mentors for being here!_
