@@ -1,6 +1,8 @@
 ﻿# Introduction to Intan
 I am a Materials Engineering student and I am happy.
 
+i want to learn coding
+
 # LearnGitHub
 A repository that helps new users learn how to use basic github.
 
@@ -27,7 +29,7 @@ The installation for git is fairly straighforward. You can follow instructions [
 ## Tasks
 - [x] [Creating Issues](#request-for-collaboration-permission)
 - [x] [Cloning](#cloning)
-- [ ] [Pull-requests](#pull-requests)
+- [x] [Pull-requests](#pull-requests)
 - [ ] [Branches](#branches)
 - [ ] [Merge Conflicts](#merge-conflicts)
 
