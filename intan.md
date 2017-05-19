@@ -1,7 +1,9 @@
 ﻿# Introduction to Intan
 I am a Materials Engineering student and I am happy.
 
-i want to learn coding
+I want to learn coding
+
+Learning with github : it is very confusing
 
 # LearnGitHub
 A repository that helps new users learn how to use basic github.
