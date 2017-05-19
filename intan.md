@@ -32,7 +32,7 @@ The installation for git is fairly straighforward. You can follow instructions [
 - [x] [Creating Issues](#request-for-collaboration-permission)
 - [x] [Cloning](#cloning)
 - [x] [Pull-requests](#pull-requests)
-- [ ] [Branches](#branches)
+- [x] [Branches](#branches)
 - [ ] [Merge Conflicts](#merge-conflicts)
 
 ### Request for collaboration permission
